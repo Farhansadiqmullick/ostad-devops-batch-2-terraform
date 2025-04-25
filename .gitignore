@@ -1,2 +1,6 @@
 .venv
 .idea
+.env
+.terraform.lock.hcl
+terraform.tfstate
+.terraform/providers/registry.terraform.io/aliyun/alicloud/1.212.0/darwin_arm64/terraform-provider-alicloud_v1.212.0
